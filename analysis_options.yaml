@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    use_super_parameters: ignore
+    library_private_types_in_public_api: ignore
+    avoid_types_as_parameter_names: ignore
+    non_constant_identifier_names: ignore
+    deprecated_member_use: ignore
