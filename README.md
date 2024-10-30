@@ -1,3 +1,3 @@
 # anime_movie
 
-A new Flutter project.
+This is a simple multiplatform application to show a list of movies, add bookmark, seeing details, using Flutter Framework.
